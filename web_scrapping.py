@@ -4,21 +4,27 @@
 # #Later, use beautiful soup to scrap CDC data, see if there's cross over between two data sets  
 
 import requests 
+import json
 
 #Making API Call
-
-url = 'https://api.bls.gov/publicAPI/v1/timeseries/data/'
+#Series IDs to call
+#CEU6562160001 CEU6562160002 CEU6562160003 
+#CEU6562160010 CEU6562160011 
+url = 'https://api.bls.gov/publicAPI/v1/timeseries/data/CEU6562160001'
 headers = {'Content-type': 'application/json'}
 r = requests.get(url, headers=headers)
 print(f"Status code: {r.status_code}")
 response_dict = r.json()
+readable_file = 'data/readable_employee_data.json'
+with open(readable_file, 'w') as f:
+    json.dump(response_dict, f, indent=4)
 
 #Print and analyze results
-print(response_dict.keys())
+
 
 
 #It was a success!
 
-for i in response_dict.keys():
-    print(response_dict.values)
+
+
 

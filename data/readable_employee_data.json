@@ -1,0 +1,267 @@
+{
+    "status": "REQUEST_SUCCEEDED",
+    "responseTime": 165,
+    "message": [],
+    "Results": {
+        "series": [
+            {
+                "seriesID": "CEU6562160001",
+                "data": [
+                    {
+                        "year": "2025",
+                        "period": "M01",
+                        "periodName": "January",
+                        "latest": "true",
+                        "value": "1822.3",
+                        "footnotes": [
+                            {
+                                "code": "P",
+                                "text": "preliminary"
+                            }
+                        ]
+                    },
+                    {
+                        "year": "2024",
+                        "period": "M13",
+                        "periodName": "Annual",
+                        "value": "1750.7",
+                        "footnotes": [
+                            {
+                                "code": "P",
+                                "text": "preliminary"
+                            }
+                        ]
+                    },
+                    {
+                        "year": "2024",
+                        "period": "M12",
+                        "periodName": "December",
+                        "value": "1834.2",
+                        "footnotes": [
+                            {
+                                "code": "P",
+                                "text": "preliminary"
+                            }
+                        ]
+                    },
+                    {
+                        "year": "2024",
+                        "period": "M11",
+                        "periodName": "November",
+                        "value": "1826.2",
+                        "footnotes": [
+                            {}
+                        ]
+                    },
+                    {
+                        "year": "2024",
+                        "period": "M10",
+                        "periodName": "October",
+                        "value": "1806.2",
+                        "footnotes": [
+                            {}
+                        ]
+                    },
+                    {
+                        "year": "2024",
+                        "period": "M09",
+                        "periodName": "September",
+                        "value": "1782.8",
+                        "footnotes": [
+                            {}
+                        ]
+                    },
+                    {
+                        "year": "2024",
+                        "period": "M08",
+                        "periodName": "August",
+                        "value": "1764.6",
+                        "footnotes": [
+                            {}
+                        ]
+                    },
+                    {
+                        "year": "2024",
+                        "period": "M07",
+                        "periodName": "July",
+                        "value": "1753.7",
+                        "footnotes": [
+                            {}
+                        ]
+                    },
+                    {
+                        "year": "2024",
+                        "period": "M06",
+                        "periodName": "June",
+                        "value": "1734.6",
+                        "footnotes": [
+                            {}
+                        ]
+                    },
+                    {
+                        "year": "2024",
+                        "period": "M05",
+                        "periodName": "May",
+                        "value": "1737.3",
+                        "footnotes": [
+                            {}
+                        ]
+                    },
+                    {
+                        "year": "2024",
+                        "period": "M04",
+                        "periodName": "April",
+                        "value": "1715.3",
+                        "footnotes": [
+                            {}
+                        ]
+                    },
+                    {
+                        "year": "2024",
+                        "period": "M03",
+                        "periodName": "March",
+                        "value": "1702.6",
+                        "footnotes": [
+                            {}
+                        ]
+                    },
+                    {
+                        "year": "2024",
+                        "period": "M02",
+                        "periodName": "February",
+                        "value": "1687.2",
+                        "footnotes": [
+                            {}
+                        ]
+                    },
+                    {
+                        "year": "2024",
+                        "period": "M01",
+                        "periodName": "January",
+                        "value": "1663.3",
+                        "footnotes": [
+                            {}
+                        ]
+                    },
+                    {
+                        "year": "2023",
+                        "period": "M13",
+                        "periodName": "Annual",
+                        "value": "1620.3",
+                        "footnotes": [
+                            {}
+                        ]
+                    },
+                    {
+                        "year": "2023",
+                        "period": "M12",
+                        "periodName": "December",
+                        "value": "1671.0",
+                        "footnotes": [
+                            {}
+                        ]
+                    },
+                    {
+                        "year": "2023",
+                        "period": "M11",
+                        "periodName": "November",
+                        "value": "1665.2",
+                        "footnotes": [
+                            {}
+                        ]
+                    },
+                    {
+                        "year": "2023",
+                        "period": "M10",
+                        "periodName": "October",
+                        "value": "1657.2",
+                        "footnotes": [
+                            {}
+                        ]
+                    },
+                    {
+                        "year": "2023",
+                        "period": "M09",
+                        "periodName": "September",
+                        "value": "1643.0",
+                        "footnotes": [
+                            {}
+                        ]
+                    },
+                    {
+                        "year": "2023",
+                        "period": "M08",
+                        "periodName": "August",
+                        "value": "1629.2",
+                        "footnotes": [
+                            {}
+                        ]
+                    },
+                    {
+                        "year": "2023",
+                        "period": "M07",
+                        "periodName": "July",
+                        "value": "1622.4",
+                        "footnotes": [
+                            {}
+                        ]
+                    },
+                    {
+                        "year": "2023",
+                        "period": "M06",
+                        "periodName": "June",
+                        "value": "1616.1",
+                        "footnotes": [
+                            {}
+                        ]
+                    },
+                    {
+                        "year": "2023",
+                        "period": "M05",
+                        "periodName": "May",
+                        "value": "1605.7",
+                        "footnotes": [
+                            {}
+                        ]
+                    },
+                    {
+                        "year": "2023",
+                        "period": "M04",
+                        "periodName": "April",
+                        "value": "1598.3",
+                        "footnotes": [
+                            {}
+                        ]
+                    },
+                    {
+                        "year": "2023",
+                        "period": "M03",
+                        "periodName": "March",
+                        "value": "1595.3",
+                        "footnotes": [
+                            {}
+                        ]
+                    },
+                    {
+                        "year": "2023",
+                        "period": "M02",
+                        "periodName": "February",
+                        "value": "1578.4",
+                        "footnotes": [
+                            {}
+                        ]
+                    },
+                    {
+                        "year": "2023",
+                        "period": "M01",
+                        "periodName": "January",
+                        "value": "1561.5",
+                        "footnotes": [
+                            {}
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
